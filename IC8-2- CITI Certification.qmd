@@ -1,0 +1,30 @@
+---
+title: "IC8-2: CITI Certification"
+author: "Xueying Luo"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    theme: cosmo
+    embed-resources: true
+    smooth-scroll: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+# CITI Certification
+
+![CITI Certification Report](CITI Certification Report.png)
+
+![CITI Certification Completion Report Page 1](CITI Certification Report-1.png)
+
+![CITI Certification Completion Report Page 2](CITI Certification Report-2.png)
+
+# Appendix
+
+GitHub Repo
+
+GitHub Pages
