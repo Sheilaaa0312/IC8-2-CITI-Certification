@@ -17,11 +17,11 @@ execute:
 
 # CITI Certification
 
-![CITI Certification Report](CITI Certification Report.png)
+![CITI Certification Report](CITI%20Certification%20Report.png)
 
-![CITI Certification Completion Report Page 1](CITI Certification Report-1.png)
+![CITI Certification Completion Report Page 1](CITI%20Certification%20Report-1.png)
 
-![CITI Certification Completion Report Page 2](CITI Certification Report-2.png)
+![CITI Certification Completion Report Page 2](CITI%20Certification%20Report-2.png)
 
 # Appendix
 
