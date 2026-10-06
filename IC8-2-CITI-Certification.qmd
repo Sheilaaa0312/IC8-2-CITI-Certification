@@ -25,6 +25,6 @@ execute:
 
 # Appendix
 
-GitHub Repo
+[GitHub Repo](https://github.com/Sheilaaa0312/IC8-2-CITI-Certification)
 
 GitHub Pages
